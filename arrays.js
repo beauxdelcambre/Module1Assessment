@@ -36,8 +36,3 @@ console.log(middleNums)
 */
 
 // CODE HERE
-function bigOrSmall(arr){
-  answers = [76]
-
-  
-}
